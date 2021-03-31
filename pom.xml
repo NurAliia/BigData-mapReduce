@@ -47,7 +47,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>PackageDemo.CharCount</mainClass>
+                            <mainClass>PackageDemo.ReduceJoin</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
